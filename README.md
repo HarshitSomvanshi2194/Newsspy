@@ -70,7 +70,7 @@ This project can be easily deployed on:
 
 ## 👨‍💻 Author
 
-Made with 💙 by **[Debonairayush](https://github.com/Debonairayush)**   — passionate about web development and open source.
+Made with 💙 by Harshit — passionate about web development and open source.
 
 Feel free to ⭐ the repo, open issues, or contribute via pull requests!
 
